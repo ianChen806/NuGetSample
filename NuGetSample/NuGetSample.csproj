@@ -2,6 +2,11 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+
+        <PackageId>MyPackage20200324</PackageId>
+        <Version>1.0.3</Version>
+        <Authors>IanChen</Authors>
+        <Company>Company</Company>
     </PropertyGroup>
 
 </Project>
